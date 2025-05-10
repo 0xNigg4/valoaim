@@ -9,12 +9,6 @@
 - [🎯 Objective](#objective)
 - [🧰 Materials Needed](#materials-needed)
 - [🔌 Wiring Diagram](#wiring-diagram)
-- [📦 Code: Crisp Aim Simulator](#code-crisp-aim-simulator)
-- [🧠 How It Works](#how-it-works)
-- [📘 Educational Concepts Covered](#educational-concepts-covered)
-- [⚠️ Ethical Use & Disclaimer](#ethical-use--disclaimer)
-- [📚 Report / Presentation Suggestions](#report--presentation-suggestions)
-- [💡 Future Enhancements](#future-enhancements)
 
 ---
 
