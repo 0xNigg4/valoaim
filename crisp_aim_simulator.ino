@@ -9,7 +9,6 @@ long debounceDelay = 50;
 
 void setup() {
   pinMode(aimButtonPin, INPUT);
-
   Mouse.begin();
 }
 
